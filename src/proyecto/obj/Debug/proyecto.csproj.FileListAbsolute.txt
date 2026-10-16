@@ -1,0 +1,35 @@
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO\proyecto\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO\proyecto\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO\OO\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO\OO\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO\OO\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO\OO\proyecto\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO\OO\proyecto\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO\OO\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO\OO\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\proyecto\obj\Debug\proyecto.pdb

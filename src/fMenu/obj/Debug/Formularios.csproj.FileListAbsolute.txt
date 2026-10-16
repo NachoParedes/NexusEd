@@ -1,0 +1,84 @@
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\bin\Debug\fMenu.exe.config
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\bin\Debug\fMenu.exe
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\bin\Debug\fMenu.pdb
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\bin\Debug\proyecto.exe
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\bin\Debug\proyecto.pdb
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\bin\Debug\proyecto.exe.config
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.fMenu.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.Properties.Resources.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\obj\Debug\Formular.9034CDC0.Up2Date
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.exe
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.pdb
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.DarAltaAlumno.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.DarAltaProfesor.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\obj\Debug\proyecto.DarAltaCurso.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.DarAltaInstituto.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.Inscripcion.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.ConsultaGeneral.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\1. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.ConsultaCursos.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\bin\Debug\fMenu.exe.config
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\bin\Debug\fMenu.exe
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\bin\Debug\fMenu.pdb
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\bin\Debug\proyecto.exe
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\bin\Debug\proyecto.pdb
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\bin\Debug\proyecto.exe.config
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.ConsultaCursos.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.ConsultaGeneral.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.DarAltaAlumno.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\obj\Debug\proyecto.DarAltaCurso.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.DarAltaInstituto.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.DarAltaProfesor.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.fMenu.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.Inscripcion.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.Properties.Resources.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\obj\Debug\Formular.9034CDC0.Up2Date
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.exe
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.pdb
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\bin\Debug\fMenu.exe.config
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\bin\Debug\fMenu.exe
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\bin\Debug\fMenu.pdb
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\bin\Debug\proyecto.exe
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\bin\Debug\proyecto.pdb
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\bin\Debug\proyecto.exe.config
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.ConsultaCursos.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.ConsultaGeneral.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.DarAltaAlumno.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\proyecto.DarAltaCurso.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.DarAltaInstituto.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.DarAltaProfesor.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.fMenu.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.Inscripcion.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.Properties.Resources.resources
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\Formular.9034CDC0.Up2Date
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.exe
+C:\Users\Lautaro\OneDrive\Uns\7. Diseño y Desarrollo\Proyectos\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.pdb
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\bin\Debug\fMenu.exe.config
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\bin\Debug\fMenu.exe
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\bin\Debug\fMenu.pdb
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\bin\Debug\proyecto.exe
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\bin\Debug\proyecto.pdb
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\bin\Debug\proyecto.exe.config
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.ConsultaCursos.resources
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.ConsultaGeneral.resources
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.DarAltaAlumno.resources
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\proyecto.DarAltaCurso.resources
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.DarAltaInstituto.resources
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.DarAltaProfesor.resources
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.fMenu.resources
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.Inscripcion.resources
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.Properties.Resources.resources
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\Formular.9034CDC0.Up2Date
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.exe
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\2. OO_V2\2. OO_V2\OO\proyecto\fMenu\obj\Debug\fMenu.pdb

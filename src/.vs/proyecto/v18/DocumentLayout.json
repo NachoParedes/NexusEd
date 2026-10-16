@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\fmenu\\fmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|solutionrelative:fmenu\\fmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\fmenu\\fmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|solutionrelative:fmenu\\fmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\fmenu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|solutionrelative:fmenu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\fmenu\\consultageneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|solutionrelative:fmenu\\consultageneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\fmenu\\consultageneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|solutionrelative:fmenu\\consultageneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A918C6-16AD-4F84-B909-F2B4ED7953CB}|proyecto\\proyecto.csproj|C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\proyecto\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A918C6-16AD-4F84-B909-F2B4ED7953CB}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A918C6-16AD-4F84-B909-F2B4ED7953CB}|proyecto\\proyecto.csproj|C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\proyecto\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A918C6-16AD-4F84-B909-F2B4ED7953CB}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A918C6-16AD-4F84-B909-F2B4ED7953CB}|proyecto\\proyecto.csproj|c:\\users\\nacho\\onedrive\\documentos\\proyectos\\universidad\\2. oo_v2\\2. oo_v2\\oo\\proyecto\\proyecto\\colecciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A918C6-16AD-4F84-B909-F2B4ED7953CB}|proyecto\\proyecto.csproj|solutionrelative:proyecto\\colecciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Colecciones.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\proyecto\\Colecciones.cs",
+              "RelativeDocumentMoniker": "proyecto\\Colecciones.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\proyecto\\Colecciones.cs",
+              "RelativeToolTip": "proyecto\\Colecciones.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAgwA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T18:49:20.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\proyecto\\Persona.cs",
+              "RelativeDocumentMoniker": "proyecto\\Persona.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\proyecto\\Persona.cs",
+              "RelativeToolTip": "proyecto\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T18:49:20.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\proyecto\\Curso.cs",
+              "RelativeDocumentMoniker": "proyecto\\Curso.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\proyecto\\Curso.cs",
+              "RelativeToolTip": "proyecto\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T18:49:20.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsultaGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\fMenu\\ConsultaGeneral.cs",
+              "RelativeDocumentMoniker": "fMenu\\ConsultaGeneral.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\fMenu\\ConsultaGeneral.cs",
+              "RelativeToolTip": "fMenu\\ConsultaGeneral.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T18:49:20.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultaGeneral.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\fMenu\\ConsultaGeneral.cs",
+              "RelativeDocumentMoniker": "fMenu\\ConsultaGeneral.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\fMenu\\ConsultaGeneral.cs [Dise\u00F1o]",
+              "RelativeToolTip": "fMenu\\ConsultaGeneral.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T18:49:20.898Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\fMenu\\Program.cs",
+              "RelativeDocumentMoniker": "fMenu\\Program.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\fMenu\\Program.cs",
+              "RelativeToolTip": "fMenu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T18:49:20.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fMenu.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\fMenu\\fMenu.cs",
+              "RelativeDocumentMoniker": "fMenu\\fMenu.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\fMenu\\fMenu.cs",
+              "RelativeToolTip": "fMenu\\fMenu.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAwwEMAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T18:49:20.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\fMenu\\fMenu.cs",
+              "RelativeDocumentMoniker": "fMenu\\fMenu.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\2. OO_V2\\2. OO_V2\\OO\\proyecto\\fMenu\\fMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "fMenu\\fMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T18:49:20.898Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

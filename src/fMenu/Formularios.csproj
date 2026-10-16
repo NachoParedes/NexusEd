@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>fMenu</RootNamespace>
+    <AssemblyName>fMenu</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConsultaCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaCursos.Designer.cs">
+      <DependentUpon>ConsultaCursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaGeneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaGeneral.Designer.cs">
+      <DependentUpon>ConsultaGeneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DarAltaAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DarAltaAlumno.Designer.cs">
+      <DependentUpon>DarAltaAlumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DarAltaCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DarAltaCurso.Designer.cs">
+      <DependentUpon>DarAltaCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DarAltaInstituto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DarAltaInstituto.Designer.cs">
+      <DependentUpon>DarAltaInstituto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DarAltaProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DarAltaProfesor.Designer.cs">
+      <DependentUpon>DarAltaProfesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMenu.Designer.cs">
+      <DependentUpon>fMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inscripcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inscripcion.Designer.cs">
+      <DependentUpon>Inscripcion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ConsultaCursos.resx">
+      <DependentUpon>ConsultaCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaGeneral.resx">
+      <DependentUpon>ConsultaGeneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DarAltaAlumno.resx">
+      <DependentUpon>DarAltaAlumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DarAltaCurso.resx">
+      <DependentUpon>DarAltaCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DarAltaInstituto.resx">
+      <DependentUpon>DarAltaInstituto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DarAltaProfesor.resx">
+      <DependentUpon>DarAltaProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMenu.resx">
+      <DependentUpon>fMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inscripcion.resx">
+      <DependentUpon>Inscripcion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\proyecto\proyecto.csproj">
+      <Project>{a3a918c6-16ad-4f84-b909-f2b4ed7953cb}</Project>
+      <Name>proyecto</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
