@@ -10,7 +10,7 @@ namespace Views
             InitializeComponent();
         }
 
-        private void fMenu_Load(object sender, EventArgs e)
+        private void Menu_Load(object sender, EventArgs e)
         {
             // Más adelante acá podemos verificar que haya conexión a MySQL al abrir el programa
         }

@@ -1,16 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Models
 {
-    [Serializable()]
     public class Instituto
     {
         #region Atributos de clase
-
         private int _id;
         private string _nombre;
         private string _direccion;
@@ -61,7 +55,6 @@ namespace Models
             get { return _contacto; }
             set { _contacto = value; }
         }
-
         #endregion
 
         #region Consultas
@@ -72,7 +65,6 @@ namespace Models
 
         public bool Equals(Instituto ins)
         {
-
             return (Id == ins.Id &&
                    Nombre == ins.Nombre &&
                    Direccion == ins.Direccion &&

@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|views\\Views.csproj|c:\\users\\nacho\\onedrive\\documentos\\proyectos\\universidad\\nexused\\src\\views\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|views\\Views.csproj|solutionrelative:views\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|views\\Views.csproj|c:\\users\\nacho\\onedrive\\documentos\\proyectos\\universidad\\nexused\\src\\views\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|views\\Views.csproj|solutionrelative:views\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|views\\Views.csproj|c:\\users\\nacho\\onedrive\\documentos\\proyectos\\universidad\\nexused\\src\\views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|views\\Views.csproj|C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|views\\Views.csproj|solutionrelative:views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\views\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "views\\Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\views\\Menu.Designer.cs",
+              "RelativeToolTip": "views\\Menu.Designer.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAnwI8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T22:41:40.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\views\\Menu.cs",
               "RelativeDocumentMoniker": "views\\Menu.cs",
               "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\views\\Menu.cs",
               "RelativeToolTip": "views\\Menu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-17T22:38:06.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\views\\Program.cs",
               "RelativeDocumentMoniker": "views\\Program.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "views\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T22:35:29.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T22:35:29.13Z"
             }
           ]
         }

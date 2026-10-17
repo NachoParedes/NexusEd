@@ -141,7 +141,7 @@
             this.Name = "fMenu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Bienvenido";
-            this.Load += new System.EventHandler(this.fMenu_Load);
+            this.Load += new System.EventHandler(this.Menu_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);

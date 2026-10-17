@@ -1,26 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Linq;
-
 
 namespace Models
 {
-    [Serializable()]
     public class Persona
     {
-
         #region atributos de instancia 
-
         private string _nombre;
         private string _apellido;
         private int _dni;
         private DateTime _fechaNacimiento;
         private string _email;
-
         #endregion
 
         #region Constructores
@@ -34,7 +23,6 @@ namespace Models
             _fechaNacimiento = fechaNacimiento;
             _email = email;
         }
-
         #endregion
 
         #region propiedades
@@ -53,11 +41,10 @@ namespace Models
             get { return _dni; }
             set { _dni = value; }
         }
-
-        public string FechaNacimiento
+        public DateTime FechaNacimiento 
         {
-            get { return $"{_fechaNacimiento}"; }
-            set { FechaNacimiento = value; }
+            get { return _fechaNacimiento; }
+            set { _fechaNacimiento = value; }
         }
         public string Email
         {
@@ -69,7 +56,7 @@ namespace Models
         #region Consultas
         public override string ToString()
         {
-            return $"Nombre: {this.Nombre} {this.Apellido},  Fecha de Nacimiento: {this.FechaNacimiento}, Correo Electronico: {this.Email} ";
+            return $"Nombre: {this.Nombre} {this.Apellido},  Fecha de Nacimiento: {this.FechaNacimiento.ToShortDateString()}, Correo Electronico: {this.Email} ";
         }
 
         public bool Equals(Persona per)
@@ -82,7 +69,7 @@ namespace Models
 
         public Persona Clone()
         {
-            return new Persona(this.Nombre, this.Apellido, this.Dni, Convert.ToDateTime(this.FechaNacimiento), this.Email);
+            return new Persona(this.Nombre, this.Apellido, this.Dni, this.FechaNacimiento, this.Email);
         }
         #endregion
 
@@ -92,25 +79,22 @@ namespace Models
             _nombre = per.Nombre;
             _apellido = per.Apellido;
             _email = per.Email;
-            _fechaNacimiento = Convert.ToDateTime(per.FechaNacimiento);
+            _fechaNacimiento = per.FechaNacimiento;
         }
         #endregion
     }// fin Persona
 
-    [Serializable()]
     public class Alumno : Persona
     {
-
         #region atributos de instancia
-
         private int _nroLibreta;
         private DateTime _inscripcion;
         private string _carrera;
-
         #endregion
 
         #region Constructores
         public Alumno() : base() { }
+
         public Alumno(int nroLibreta) : base()
         {
             _nroLibreta = nroLibreta;
@@ -148,7 +132,7 @@ namespace Models
         #region Consultas
         public override string ToString()
         {
-            return $"{base.ToString()}, N° Libreta: {this.NroLibreta}, Fecha de Inscripcion: {this.Inscripcion}, Carrera: {this.Carrera}";
+            return $"{base.ToString()}, N° Libreta: {this.NroLibreta}, Fecha de Inscripcion: {this.Inscripcion.ToShortDateString()}, Carrera: {this.Carrera}";
         }
         public bool Equals(Alumno al)
         {
@@ -160,7 +144,7 @@ namespace Models
 
         public Alumno Clone()
         {
-            Alumno alumnoClone = (Alumno)base.Clone(); // Llama al Clone() de Persona
+            Alumno alumnoClone = (Alumno)base.Clone();
             alumnoClone.NroLibreta = this.NroLibreta;
             alumnoClone.Inscripcion = this.Inscripcion;
             alumnoClone.Carrera = this.Carrera;
@@ -177,17 +161,13 @@ namespace Models
             this.Carrera = al.Carrera;
         }
         #endregion
-
     }// fin Alumno
-    [Serializable()]
+
     public class Profesor : Persona
     {
-
         #region Atributos de Instancia
-
         private int _legajo;
         private string _tituloUniversitario;
-
         #endregion
 
         #region Constructores

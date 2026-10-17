@@ -1,14 +1,8 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Models
 {
-    [Serializable()]
     public class Curso
     {
         #region Atributos de instancia
@@ -23,22 +17,20 @@ namespace Models
         public Curso(int id)
         {
             _id = id;
-
         }
 
         public Curso(int id, string nombre)
         {
-
             _id = id;
             _nombreCurso = nombre;
-            _alumnos = new List<Alumno>(); // lista de alumnos HAY QUE CAMBIAR X UN LIST-
+            _alumnos = new List<Alumno>();
         }
         #endregion
 
         #region propiedades
         public int CantAlumnos
         {
-            get { return _alumnos.Count; } // obtiene la cantidad de alumnos que hay en el curso
+            get { return _alumnos.Count; }
         }
         public int Id
         {
@@ -50,42 +42,45 @@ namespace Models
             get { return _nombreCurso; }
             set { _nombreCurso = value; }
         }
+        // Agregado para poder interactuar con la lista desde afuera cuando se cargue desde la BD
+        public List<Alumno> Alumnos
+        {
+            get { return _alumnos; }
+            set { _alumnos = value; }
+        }
         #endregion
 
         #region Consultas
-
-
         public override string ToString()
         {
-            return $"Nombre: {this.NombreCurso}, Id: {this.Id}" +
-                   $"Cantidad de Alumnos: {this.CantAlumnos} ";
+            return $"Nombre: {this.NombreCurso}, Id: {this.Id} - Cantidad de Alumnos: {this.CantAlumnos} ";
         }
+
         public Curso Clone()
         {
             return new Curso(this.Id, this.NombreCurso);
         }
+
         public bool Equals(Curso cur)
         {
-            return (cur.NombreCurso == this.NombreCurso &&
-                    cur.Id == this.Id);
+            return (cur.NombreCurso == this.NombreCurso && cur.Id == this.Id);
         }
 
         public string GetAlumnos()
         {
-            string alumnos = "";
+            string alumnosStr = "";
             if (_alumnos.Count == 0)
             {
-                alumnos = "No hay Alumnos anotados en este curso.";
+                alumnosStr = "No hay Alumnos anotados en este curso.";
             }
             else
             {
-                for (int i = 0; i <= _alumnos.Count - 1; i++) // va el -1  por que Conunt empieza a contar alumnos desde el 1
+                foreach (Alumno al in _alumnos)
                 {
-                    alumnos += $"{_alumnos[i].Nombre} {_alumnos[i].Apellido}, N° libreta: {_alumnos[i].NroLibreta} \n";
+                    alumnosStr += $"{al.Nombre} {al.Apellido}, N° libreta: {al.NroLibreta} \n";
                 }
             }
-
-            return alumnos;
+            return alumnosStr;
         }
         #endregion
 
@@ -95,28 +90,35 @@ namespace Models
             this.Id = cur.Id;
             this.NombreCurso = cur.NombreCurso;
         }
-        public void AgregatAlumnos(Alumno al)
+
+        public void AgregarAlumnos(Alumno al)
         {
             if (_alumnos.Contains(al))
-            { Console.WriteLine("El alumno que desea agergar ya existe en el curso"); }
+            {
+                throw new Exception("El alumno que desea agregar ya existe en el curso.");
+            }
             else
-            { _alumnos.Add(al); }
+            {
+                _alumnos.Add(al);
+            }
         }
+
         public void EliminarAlumnos(Alumno al)
         {
             if (_alumnos.Contains(al))
-            { _alumnos.Remove(al); }
+            {
+                _alumnos.Remove(al);
+            }
             else
-            { Console.WriteLine("El alumno que desea eliminar no existe en el curso"); }
+            {
+                throw new Exception("El alumno que desea eliminar no existe en el curso.");
+            }
         }
         #endregion
-
     } //fin curso
 
-    [Serializable()]
     public class CursoUniversitario : Curso
     {
-
         #region  Atributos de Clase
         private string _aula;
         private string _horario;
@@ -165,14 +167,16 @@ namespace Models
         {
             return $"{base.ToString()}\n Profesor: {Profesor.Nombre} {Profesor.Apellido}, Aula {this.Aula}, Horario: {this.Horario}";
         }
+
         public CursoUniversitario Clone()
         {
             CursoUniversitario cur = (CursoUniversitario)base.Clone();
-            cur._aula = this.Aula;
-            cur._horario = this.Horario;
-            cur._profesor = this.Profesor;
+            cur.Aula = this.Aula;
+            cur.Horario = this.Horario;
+            cur.Profesor = this.Profesor;
             return cur;
         }
+
         public bool Equals(CursoUniversitario cur)
         {
             return (base.Equals(this) == base.Equals(cur) &&
@@ -180,7 +184,6 @@ namespace Models
                 cur.Aula == this.Aula &&
                 cur.Horario == this.Horario);
         }
-
         #endregion
 
         #region Comandos
@@ -194,7 +197,6 @@ namespace Models
         #endregion
     }// fin CursoUniversitario
 
-    [Serializable()]
     public class CursoExterno : Curso
     {
         #region Atributos de clase
@@ -208,6 +210,7 @@ namespace Models
         {
             _instituto = instituto;
         }
+
         public CursoExterno(int id, string nombre, Instituto instituto)
                             : base(id, nombre)
         {
@@ -221,7 +224,6 @@ namespace Models
             get { return _instituto; }
             set { _instituto = value; }
         }
-
         #endregion
 
         #region Consultas
@@ -229,12 +231,14 @@ namespace Models
         {
             return $"{base.ToString()}\n Instituto a cargo {this._instituto.Nombre}";
         }
+
         public CursoExterno Clone()
         {
             CursoExterno cur = (CursoExterno)base.Clone();
             cur.Inst = this.Inst;
             return cur;
         }
+
         public bool Equals(CursoExterno cur)
         {
             return (base.Equals(this) == base.Equals(cur) &&
@@ -248,7 +252,6 @@ namespace Models
             base.Copy(cur);
             this.Inst = cur.Inst;
         }
-
         #endregion
     } // fin CursoExterno
 }
