@@ -1,0 +1,7 @@
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\NexusEd\src\models\bin\Debug\Models.exe.config
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\NexusEd\src\models\bin\Debug\Models.exe
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\NexusEd\src\models\bin\Debug\Models.pdb
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\NexusEd\src\models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\NexusEd\src\models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\NexusEd\src\models\obj\Debug\Models.exe
+C:\Users\nacho\OneDrive\Documentos\Proyectos\Universidad\NexusEd\src\models\obj\Debug\Models.pdb
