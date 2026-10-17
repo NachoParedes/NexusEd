@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|c:\\users\\nacho\\onedrive\\documentos\\proyectos\\universidad\\nexused\\nexused\\fmenu\\daraltaprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|solutionrelative:fmenu\\daraltaprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|c:\\users\\nacho\\onedrive\\documentos\\proyectos\\universidad\\nexused\\nexused\\fmenu\\fmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|solutionrelative:fmenu\\fmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|c:\\users\\nacho\\onedrive\\documentos\\proyectos\\universidad\\nexused\\nexused\\fmenu\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|solutionrelative:fmenu\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|c:\\users\\nacho\\onedrive\\documentos\\proyectos\\universidad\\nexused\\nexused\\fmenu\\daraltainstituto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|solutionrelative:fmenu\\daraltainstituto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|c:\\users\\nacho\\onedrive\\documentos\\proyectos\\universidad\\nexused\\nexused\\fmenu\\daraltacurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|solutionrelative:fmenu\\daraltacurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|c:\\users\\nacho\\onedrive\\documentos\\proyectos\\universidad\\nexused\\nexused\\fmenu\\daraltaalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|solutionrelative:fmenu\\daraltaalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|c:\\users\\nacho\\onedrive\\documentos\\proyectos\\universidad\\nexused\\nexused\\fmenu\\consultageneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|solutionrelative:fmenu\\consultageneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\fmenu\\consultacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42EC422-92B6-4186-AE3E-E13F8D20B5A2}|fMenu\\Formularios.csproj|solutionrelative:fmenu\\consultacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inscripcion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\fMenu\\Inscripcion.cs",
+              "RelativeDocumentMoniker": "fMenu\\Inscripcion.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\fMenu\\Inscripcion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "fMenu\\Inscripcion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T20:53:58.951Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\fMenu\\fMenu.cs",
+              "RelativeDocumentMoniker": "fMenu\\fMenu.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\fMenu\\fMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "fMenu\\fMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T20:53:58.118Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DarAltaProfesor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\fMenu\\DarAltaProfesor.cs",
+              "RelativeDocumentMoniker": "fMenu\\DarAltaProfesor.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\fMenu\\DarAltaProfesor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "fMenu\\DarAltaProfesor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T20:53:57.107Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DarAltaInstituto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\fMenu\\DarAltaInstituto.cs",
+              "RelativeDocumentMoniker": "fMenu\\DarAltaInstituto.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\fMenu\\DarAltaInstituto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "fMenu\\DarAltaInstituto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T20:53:56.166Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DarAltaCurso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\fMenu\\DarAltaCurso.cs",
+              "RelativeDocumentMoniker": "fMenu\\DarAltaCurso.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\fMenu\\DarAltaCurso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "fMenu\\DarAltaCurso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T20:53:54.513Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DarAltaAlumno.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\fMenu\\DarAltaAlumno.cs",
+              "RelativeDocumentMoniker": "fMenu\\DarAltaAlumno.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\fMenu\\DarAltaAlumno.cs [Dise\u00F1o]",
+              "RelativeToolTip": "fMenu\\DarAltaAlumno.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T20:53:53.028Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsultaGeneral.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\fMenu\\ConsultaGeneral.cs",
+              "RelativeDocumentMoniker": "fMenu\\ConsultaGeneral.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\fMenu\\ConsultaGeneral.cs [Dise\u00F1o]",
+              "RelativeToolTip": "fMenu\\ConsultaGeneral.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T20:53:50.779Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsultaCursos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\fMenu\\ConsultaCursos.cs",
+              "RelativeDocumentMoniker": "fMenu\\ConsultaCursos.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\NexusEd\\fMenu\\ConsultaCursos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "fMenu\\ConsultaCursos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T20:40:43.392Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
