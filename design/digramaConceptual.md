@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     class Persona {
         +int Dni
@@ -34,4 +35,4 @@ classDiagram
 
     CursoUniversitario "*" --> "1" Profesor : Asignado a
     CursoExterno "*" --> "1" Instituto : Pertenece a
-    Curso "*" <--> "*" Alumno : Inscripción (M:N)
+    Curso "*" <--> "*" Alumno : Inscripcion

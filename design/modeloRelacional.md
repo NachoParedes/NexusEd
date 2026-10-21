@@ -1,3 +1,4 @@
+```mermaid
 erDiagram
     Personas {
         int IdPersona PK
@@ -48,12 +49,12 @@ erDiagram
 
     Personas ||--o| Alumnos : "hereda"
     Personas ||--o| Profesores : "hereda"
-    
+
     Cursos ||--o| CursosUniversitarios : "hereda"
     Cursos ||--o| CursosExternos : "hereda"
-    
+
     Profesores ||--o{ CursosUniversitarios : "dicta"
     Institutos ||--o{ CursosExternos : "organiza"
-    
+
     Alumnos ||--o{ Inscripciones : "tiene"
     Cursos ||--o{ Inscripciones : "tiene"
