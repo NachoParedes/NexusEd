@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\design"
+    "\\src",
+    "\\src\\Database"
   ],
-  "SelectedNode": "\\design\\modeloRelacional.md",
+  "SelectedNode": "\\src\\models",
   "PreviewInSolutionExplorer": false
 }
