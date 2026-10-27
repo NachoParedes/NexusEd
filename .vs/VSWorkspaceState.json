@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\Database"
+    "\\src\\Database",
+    "\\src\\models"
   ],
-  "SelectedNode": "\\src\\models",
+  "SelectedNode": "\\src\\models\\Persona.cs",
   "PreviewInSolutionExplorer": false
 }
