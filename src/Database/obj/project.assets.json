@@ -222,6 +222,15 @@
         "runtime": {
           "lib/net9.0/ZstdSharp.dll": {}
         }
+      },
+      "Models/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
       }
     }
   },
@@ -545,10 +554,16 @@
         "zstdsharp.port.0.8.8.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../models/Models.csproj",
+      "msbuildProject": "../models/Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "Models >= 1.0.0",
       "MySql.Data >= 26.10.0"
     ]
   },
@@ -579,7 +594,11 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\models\\Models.csproj": {
+              "projectPath": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\models\\Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

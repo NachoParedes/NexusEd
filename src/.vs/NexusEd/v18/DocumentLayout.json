@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B69A8FE-D61A-4962-AEEC-71F941F0A09E}|Database\\Database.csproj|c:\\users\\nacho\\onedrive\\documentos\\proyectos\\universidad\\nexused\\src\\database\\credenciales.ejemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B69A8FE-D61A-4962-AEEC-71F941F0A09E}|Database\\Database.csproj|solutionrelative:database\\credenciales.ejemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B69A8FE-D61A-4962-AEEC-71F941F0A09E}|Database\\database.csproj|c:\\users\\nacho\\onedrive\\documentos\\proyectos\\universidad\\nexused\\src\\database\\repositoriocurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B69A8FE-D61A-4962-AEEC-71F941F0A09E}|Database\\database.csproj|solutionrelative:database\\repositoriocurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B69A8FE-D61A-4962-AEEC-71F941F0A09E}|Database\\Database.csproj|c:\\users\\nacho\\onedrive\\documentos\\proyectos\\universidad\\nexused\\src\\database\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B69A8FE-D61A-4962-AEEC-71F941F0A09E}|Database\\Database.csproj|solutionrelative:database\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B69A8FE-D61A-4962-AEEC-71F941F0A09E}|Database\\Database.csproj|c:\\users\\nacho\\onedrive\\documentos\\proyectos\\universidad\\nexused\\src\\database\\credenciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B69A8FE-D61A-4962-AEEC-71F941F0A09E}|Database\\Database.csproj|solutionrelative:database\\credenciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3A918C6-16AD-4F84-B909-F2B4ED7953CB}|models\\Models.csproj|c:\\users\\nacho\\onedrive\\documentos\\proyectos\\universidad\\nexused\\src\\models\\instituto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3A918C6-16AD-4F84-B909-F2B4ED7953CB}|models\\Models.csproj|solutionrelative:models\\instituto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3A918C6-16AD-4F84-B909-F2B4ED7953CB}|models\\Models.csproj|c:\\users\\nacho\\onedrive\\documentos\\proyectos\\universidad\\nexused\\src\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A918C6-16AD-4F84-B909-F2B4ED7953CB}|models\\Models.csproj|solutionrelative:models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Credenciales.ejemplo.cs",
-              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\Database\\Credenciales.ejemplo.cs",
-              "RelativeDocumentMoniker": "Database\\Credenciales.ejemplo.cs",
-              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\Database\\Credenciales.ejemplo.cs",
-              "RelativeToolTip": "Database\\Credenciales.ejemplo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T00:05:28.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\Database\\Conexion.cs",
-              "RelativeDocumentMoniker": "Database\\Conexion.cs",
-              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\Database\\Conexion.cs",
-              "RelativeToolTip": "Database\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\models\\Curso.cs",
+              "RelativeDocumentMoniker": "models\\Curso.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\models\\Curso.cs",
+              "RelativeToolTip": "models\\Curso.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAQwHwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T23:51:15.556Z",
+              "WhenOpened": "2026-10-29T16:25:23.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Credenciales.cs",
-              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\Database\\Credenciales.cs",
-              "RelativeDocumentMoniker": "Database\\Credenciales.cs",
-              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\Database\\Credenciales.cs",
-              "RelativeToolTip": "Database\\Credenciales.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "RepositorioCurso.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\database\\RepositorioCurso.cs",
+              "RelativeDocumentMoniker": "database\\RepositorioCurso.cs",
+              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\database\\RepositorioCurso.cs",
+              "RelativeToolTip": "database\\RepositorioCurso.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T23:50:02.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Instituto.cs",
-              "DocumentMoniker": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\models\\Instituto.cs",
-              "RelativeDocumentMoniker": "models\\Instituto.cs",
-              "ToolTip": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\models\\Instituto.cs",
-              "RelativeToolTip": "models\\Instituto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T23:41:04.172Z",
+              "WhenOpened": "2026-10-29T16:24:22.768Z",
               "EditorCaption": ""
             }
           ]

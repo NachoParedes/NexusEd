@@ -28,7 +28,11 @@
           "net10.0": {
             "framework": "net10.0",
             "targetAlias": "net10.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\models\\Models.csproj": {
+                "projectPath": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\models\\Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -344,6 +348,25 @@
             "System.Xml.XPath": "(,4.3.32767]",
             "System.Xml.XPath.XDocument": "(,5.0.32767]"
           }
+        }
+      }
+    },
+    "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\models\\Models.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Users\\nacho\\OneDrive\\Documentos\\Proyectos\\Universidad\\NexusEd\\src\\models\\Models.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "framework": "net48",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "framework": "net48"
         }
       }
     }
